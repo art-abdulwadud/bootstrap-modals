@@ -44,6 +44,17 @@ h1 {
 }
 ```
 
+### CSS Group Selector
+
+Selects all the elements with the same style definitions
+
+```css
+/* CSS Group Selector */
+h2, h3, h4 {
+    color: orange;
+}
+```
+
 # MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
