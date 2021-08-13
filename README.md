@@ -33,6 +33,17 @@ Selects the `class` attribute of an element.
 
 ```
 
+### CSS Element Selector
+
+Selects the element by name.
+
+```css
+/* CSS Element Selector */
+h1 {
+    color: green;
+}
+```
+
 # MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
