@@ -21,6 +21,18 @@ Selects the `id` attribute of an element.
 }
 ```
 
+### CSS Class Selector
+
+Selects the `class` attribute of an element.
+
+```css
+/* CSS Class Selector */
+.heading {
+    color: green;
+}
+
+```
+
 # MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
