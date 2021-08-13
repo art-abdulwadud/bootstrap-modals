@@ -14,3 +14,8 @@ h1 {
 }
 
 /* CSS Group Selector */
+h2, h3, h4 {
+    color: orange;
+}
+
+/* CSS Universal Selector */
