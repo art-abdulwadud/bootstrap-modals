@@ -55,6 +55,17 @@ h2, h3, h4 {
 }
 ```
 
+### CSS Universal Selector
+
+Selects all the elements on the page/pages
+
+```css
+/* CSS Universal Selector */
+* {
+    font-size: smaller;
+}
+```
+
 # MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
