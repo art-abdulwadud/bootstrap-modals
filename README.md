@@ -10,6 +10,17 @@ Different types of css selectors and an example for each type
 5. CSS Universal Selector
 
 
+### CSS Id Selector
+
+Selects the `id` attribute of an element.
+
+```
+/* CSS Id Selector */
+#heading {
+    color: green;
+}
+```
+
 # MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
