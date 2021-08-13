@@ -19,3 +19,6 @@ h2, h3, h4 {
 }
 
 /* CSS Universal Selector */
+* {
+    font-size: smaller;
+}
