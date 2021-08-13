@@ -1,4 +1,4 @@
-# css-selectores-guide
+# CSS Selectores Guide
 Different types of css selectors and an example for each type
 
 ## Types of CSS selectores
@@ -8,3 +8,8 @@ Different types of css selectors and an example for each type
 3. CSS Element Selector
 4. CSS Group Selector
 5. CSS Universal Selector
+
+
+# MIT License
+
+Copyright (c) 2021 Abdulwadud Mahamad
