@@ -1,4 +1,4 @@
-# css-selectores-guide
+# CSS Selectores Guide
 Different types of css selectors and an example for each type
 
 ## Types of CSS selectores
