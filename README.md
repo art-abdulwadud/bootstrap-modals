@@ -10,6 +10,6 @@ Different types of css selectors and an example for each type
 5. CSS Universal Selector
 
 
-MIT License
+# MIT License
 
 Copyright (c) 2021 Abdulwadud Mahamad
