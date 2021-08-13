@@ -14,7 +14,7 @@ Different types of css selectors and an example for each type
 
 Selects the `id` attribute of an element.
 
-```
+```css
 /* CSS Id Selector */
 #heading {
     color: green;
