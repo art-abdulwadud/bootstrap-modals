@@ -90,3 +90,12 @@ body {
     color: red;
     background: white;
 }
+.custom-card {
+  min-height: 500px;
+  width: 286px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 8em;
+}
