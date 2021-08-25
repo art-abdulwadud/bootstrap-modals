@@ -64,3 +64,11 @@ body {
   height: 350px;
   max-height: 350px;
 }
+
+.card-title::before {
+    content: "Before ";
+}
+
+.card-title::after {
+    content: " After";
+}
