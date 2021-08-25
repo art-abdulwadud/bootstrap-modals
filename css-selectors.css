@@ -85,3 +85,8 @@ body {
 .card-title::after {
     content: " After";
 }
+
+::selection {
+    color: red;
+    background: white;
+}
