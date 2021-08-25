@@ -1,58 +1,66 @@
 /* CSS Id Selector */
 #heading {
-    color: green;
+  color: green;
 }
 
 /* CSS Class Selector */
 .heading {
-    color: green;
+  color: green;
 }
 
 /* CSS Element Selector */
 h1 {
-    color: green;
+  color: green;
 }
 
 /* CSS Group Selector */
-h2, h3, h4 {
-    color: orange;
+h2,
+h3,
+h4 {
+  color: orange;
 }
 
 /* CSS Universal Selector */
 * {
-    color: white !important;
+  color: white !important;
 }
 
 body {
-    background: #0F2027;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    flex-direction: column;
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .cards {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Pseudo Elements */
 .card {
-    border-radius: 50px;
-background: #2C5364 !important;
-box-shadow:  -20px -20px 60px #1c343f,
-             20px 20px 60px #1c343f;
-    margin-right: 1.5rem;
+  border-radius: 50px;
+  background: #2c5364 !important;
+  box-shadow: -20px -20px 60px #1c343f, 20px 20px 60px #1c343f;
+  margin-right: 1.5rem;
 }
 
 .card-img-top {
-    height: 350px;
-    max-height: 350px;
+  height: 350px;
+  max-height: 350px;
 }
-
-
-
