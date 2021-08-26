@@ -58,7 +58,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form>
+                    <form class="my-form">
                         <div class="form-group">
                             <label for="exampleFormControlFile1">Add new image</label>
                             <input type="file" class="form-control-file" id="exampleFormControlFile1">
@@ -72,15 +72,17 @@
                             <label for="exampleFormControlTextarea1">Add description</label>
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-primary">Add</button>
+                        </div>
                     </form>
                 </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div>
+                
             </div>
         </div>
     </div>
+    <script src="./index.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
