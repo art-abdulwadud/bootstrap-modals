@@ -59,6 +59,7 @@ body {
   background: #2c5364 !important;
   box-shadow: -20px -20px 60px #1c343f, 20px 20px 60px #1c343f;
   margin-right: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 /* .card::before {
