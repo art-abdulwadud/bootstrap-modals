@@ -78,6 +78,7 @@ body {
 .card-img-top {
   height: 350px;
   max-height: 350px;
+  width: 286px !important;
 }
 
 /* .card-title::before {
